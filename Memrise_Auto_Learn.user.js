@@ -2,8 +2,7 @@
 // @name           Memrise Auto Learn
 // @namespace      https://github.com/cooljingle
 // @description    Fast-track the growth level of words you are planting
-// @match          https://www.memrise.com/course/*/garden/learn*
-// @match          https://app.memrise.com/course/*/garden/learn*
+// @match         https://app.memrise.com/aprender/learn?course_id=5740098?recommendation_id=d471b3bf-ccf9-40d7-a6a5-95f07301b330&key=a487317e-e116-4a3e-ad1c-5772c02f91ac
 // @version        0.0.15
 // @updateURL      https://github.com/cooljingle/memrise-auto-learn/raw/master/Memrise_Auto_Learn.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-auto-learn/raw/master/Memrise_Auto_Learn.user.js
